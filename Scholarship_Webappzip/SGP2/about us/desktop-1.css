@@ -1,0 +1,335 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 864px;
+  height: 30px;
+}
+.about-us2,
+.contact-us2,
+.home2,
+.login2,
+.scholarships3 {
+  position: absolute;
+  top: 9.4px;
+  left: 12px;
+  display: inline-block;
+  width: 81px;
+  height: 14.1px;
+}
+.about-us2,
+.contact-us2,
+.login2,
+.scholarships3 {
+  left: 131px;
+  width: 209px;
+}
+.about-us2,
+.contact-us2,
+.login2 {
+  left: 378px;
+  width: 139px;
+}
+.contact-us2,
+.login2 {
+  left: 555px;
+  width: 175px;
+}
+.login2 {
+  left: 768px;
+  width: 83px;
+}
+.group-div,
+.group-item {
+  position: absolute;
+  top: 30px;
+  left: 544px;
+  width: 864px;
+  height: 30px;
+}
+.group-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-lavender);
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 397px;
+  height: 756px;
+}
+.group-inner {
+  position: absolute;
+  top: 53px;
+  left: 48px;
+  border-radius: 40px;
+  width: 300px;
+  height: 413px;
+  object-fit: cover;
+}
+.parth,
+.virani {
+  margin: 0;
+}
+.parth-virani {
+  position: absolute;
+  top: 486px;
+  left: 106px;
+  font-weight: 600;
+}
+.darsh-pin-icon {
+  position: absolute;
+  top: 614px;
+  left: 94px;
+  width: 24px;
+  height: 24px;
+}
+.charusat-nadiad {
+  position: absolute;
+  top: 614px;
+  left: 133px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.github-parth-icon,
+.linkedin-parth-icon {
+  position: absolute;
+  top: 667px;
+  left: 124px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.github-parth-icon {
+  top: 664px;
+  left: 225px;
+}
+.ins-parth-icon {
+  position: absolute;
+  top: 665px;
+  left: 175px;
+  width: 32px;
+  height: 32px;
+}
+.rectangle-icon,
+.rectangle-parent2 {
+  position: absolute;
+  top: 0;
+  left: 442px;
+  width: 397px;
+  height: 756px;
+}
+.rectangle-icon {
+  left: 0;
+  border-radius: var(--br-31xl);
+}
+.darsh-pin-icon1 {
+  position: absolute;
+  top: 614px;
+  left: 88px;
+  width: 24px;
+  height: 24px;
+}
+.charusat-nadiad1 {
+  position: absolute;
+  top: 614px;
+  left: 127px;
+  font-weight: 600;
+}
+.kenisha,
+.vora {
+  margin: 0;
+}
+.kenisha-vora {
+  position: absolute;
+  top: 486px;
+  left: 100px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+.darsh-pin-icon2 {
+  position: absolute;
+  top: 614px;
+  left: 88px;
+  width: 24px;
+  height: 24px;
+}
+.charusat-nadiad2 {
+  position: absolute;
+  top: 614px;
+  left: 127px;
+  font-weight: 600;
+}
+.github-kenisha-icon,
+.instagram-parth-icon,
+.linkedin-kenisha-icon {
+  position: absolute;
+  top: 667px;
+  left: 118px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.github-kenisha-icon,
+.instagram-parth-icon {
+  top: 669px;
+  left: 230px;
+}
+.instagram-parth-icon {
+  top: 670px;
+  left: 173px;
+  width: 32px;
+  height: 32px;
+}
+.img-2069-1-icon {
+  position: absolute;
+  top: 53px;
+  left: 50px;
+  border-radius: var(--br-31xl);
+  width: 300px;
+  height: 412.9px;
+  object-fit: cover;
+}
+.group-child1,
+.vector-group {
+  position: absolute;
+  top: 0;
+  width: 397px;
+  height: 756px;
+}
+.vector-group {
+  left: 884px;
+  font-size: var(--font-size-xl);
+}
+.group-child1 {
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-lavender);
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.sujal,
+.vekariya {
+  margin: 0;
+}
+.sujal-vekariya {
+  position: absolute;
+  top: 500px;
+  left: 100px;
+  font-weight: 600;
+}
+.darsh-pin-icon3 {
+  position: absolute;
+  top: 628px;
+  left: 88px;
+  width: 24px;
+  height: 24px;
+}
+.charusat-nadiad3 {
+  position: absolute;
+  top: 628px;
+  left: 127px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.github-sujal-icon,
+.linkedin-sujal-icon {
+  position: absolute;
+  top: 681px;
+  left: 118px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.github-sujal-icon {
+  top: 678px;
+  left: 219px;
+}
+.ins-sujal-icon {
+  position: absolute;
+  top: 679px;
+  left: 169px;
+  width: 32px;
+  height: 32px;
+}
+.sujal1,
+.vekariya1 {
+  margin: 0;
+}
+.sujal-vekariya1 {
+  position: absolute;
+  top: 500px;
+  left: 100px;
+  font-weight: 600;
+}
+.darsh-pin-icon4 {
+  position: absolute;
+  top: 628px;
+  left: 88px;
+  width: 24px;
+  height: 24px;
+}
+.charusat-nadiad4 {
+  position: absolute;
+  top: 628px;
+  left: 127px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.github-sujal-icon1,
+.linkedin-sujal-icon1 {
+  position: absolute;
+  top: 681px;
+  left: 118px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.github-sujal-icon1 {
+  top: 678px;
+  left: 219px;
+}
+.ins-sujal-icon1 {
+  position: absolute;
+  top: 679px;
+  left: 169px;
+  width: 32px;
+  height: 32px;
+}
+.img-20240314-142600-1-icon {
+  position: absolute;
+  top: 53px;
+  left: 48px;
+  border-radius: var(--br-31xl);
+  width: 300px;
+  height: 413px;
+  object-fit: cover;
+}
+.group-parent,
+.rectangle-parent3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 397px;
+  height: 756px;
+}
+.group-parent {
+  top: 156px;
+  left: 120px;
+  width: 1281px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-montserrat);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-mediumslateblue-200);
+  font-family: var(--font-inter);
+}

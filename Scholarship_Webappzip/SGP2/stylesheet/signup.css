@@ -1,0 +1,82 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    background-image: url("BOOK.jpg");
+
+}
+form i {
+    margin-left: -30px;
+    cursor: pointer;
+    margin-top: 13px;
+}
+.signup-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    margin-top: 8vw;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.signup-form {
+    text-align: center;
+}
+
+.signup-form h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.signup-form p {
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #666;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.bottom-text {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #666;
+}
+
+.bottom-text a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.bottom-text a:hover {
+    text-decoration: underline;
+}
+
+
+
+/* Responsive styles */
+@media (max-width: 576px) {
+    .signup-container {
+        padding: 10px;
+    }
+
+    .form-group input {
+        padding: 8px;
+    }
+}

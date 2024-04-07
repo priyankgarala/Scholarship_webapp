@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* Paddings */
+  --padding-11xl: 30px;
+}

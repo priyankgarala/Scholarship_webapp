@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scholarship Form</title>
+<link rel="stylesheet" href="./stylesheet/form.css">
+</head>
+<body>
+<div class="container">
+    <h2>Scholarship Application Form</h2>
+    <form action="Add_scholarship.php" method="post">
+        <label for="scholar_name">Scholarship Name:</label>
+        <input type="text" id="scholar_name" name="scholar_name" required>
+        <label for="scholr_short_name">Short Name:</label>
+        <input type="text" id="scholr_short_name" name="scholr_short_name">
+        <label for="schlor_desc">Description:</label>
+        <textarea id="schlor_desc" name="schlor_desc"></textarea>
+        <label for="doc_req">Document Requirements:</label>
+        <textarea id="doc_req" name="doc_req"></textarea>
+        <label for="category">Category:</label>
+        <input type="text" id="category" name="category">
+        <label for="caste">Caste:</label>
+        <input type="text" id="caste" name="caste">
+        <label for="eligibility">Eligibility:</label>
+        <textarea id="eligibility" name="eligibility"></textarea>
+        <label for="for_whom">For Whom:</label>
+        <input type="text" id="for_whom" name="for_whom">
+        <label for="deadline">Deadline:</label>
+        <input type="date" id="deadline" name="deadline">
+        <label for="name_org">Organisation Name:</label>
+        <input type="text" id="name_org" name="name_org">
+        <label for="appl_link">Application Link:</label>
+        <input type="url" id="appl_link" name="appl_link">
+        <label for="which_country">Country:</label>
+        <input type="text" id="which_country" name="which_country">
+        <label for="which_state">State:</label>
+        <input type="text" id="which_state" name="which_state">
+        <input type="submit" value="Submit">
+        
+    </form>
+</div>
+</body>
+</html>

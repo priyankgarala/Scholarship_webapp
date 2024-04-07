@@ -1,0 +1,107 @@
+.frame-child,
+.home-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 864px;
+  height: 70px;
+}
+
+.home-icon {
+  top: 28.1px;
+  left: 14.4px;
+  width: 76.6px;
+  height: 20.2px;
+  z-index: 1;
+}
+.about-us-icon,
+.contact-us-icon,
+.login-icon,
+.scholarships-icon {
+  position: absolute;
+  top: 28.1px;
+  left: 132.5px;
+  width: 205px;
+  height: 20.3px;
+  z-index: 1;
+}
+.about-us-icon,
+.contact-us-icon,
+.login-icon {
+  left: 378.7px;
+  width: 136.3px;
+}
+.contact-us-icon,
+.login-icon {
+  left: 556.6px;
+  width: 171.5px;
+}
+.login-icon {
+  left: 770.4px;
+  width: 77.8px;
+  height: 20.2px;
+}
+.vector-parent {
+  width: 864px;
+  height: 70px;
+  position: relative;
+}
+.homeimage-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 593px;
+  max-height: 100%;
+  width: 732px;
+  object-fit: cover;
+}
+.welcome-to-scholarship {
+  position: absolute;
+  top: 178px;
+  left: 0;
+  width: 620.7px;
+  height: 52.5px;
+  z-index: 1;
+}
+.empowering-the-next-generation {
+  position: absolute;
+  top: 256.8px;
+  left: 1.5px;
+  width: 459.8px;
+  height: 29px;
+}
+.view-scholarship-icon {
+  position: absolute;
+  top: 360px;
+  left: 0;
+  width: 321.3px;
+  height: 90.7px;
+}
+.homeimage-parent {
+  height: 516px;
+  flex: 1;
+  position: relative;
+}
+.home-image-frame,
+.homepage {
+  display: flex;
+  justify-content: flex-start;
+}
+.home-image-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 13px;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-11xl) 32px var(--padding-11xl) 57px;
+  box-sizing: border-box;
+  gap: 183px;
+}
